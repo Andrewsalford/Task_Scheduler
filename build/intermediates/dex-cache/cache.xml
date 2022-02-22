@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="D:\AndroidStudioWorkspace\AfterExhibition\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_6ededcc9b39f46fbcdd6efbd1a4d51bb6afd2a15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioWorkspace\AfterExhibition\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="D:\AndroidStudioWorkspace\AfterExhibition\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.1_62b2998bdd5a6c70688f2561dc011a9f5f443cf2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioWorkspace\AfterExhibition\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="D:\AndroidStudioWorkspace\AfterExhibition\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.1_168bc77e6cd4245d423a1f446c710c1fc86b99ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioWorkspace\AfterExhibition\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f8082d7d3b2e050f4ff3c0ae5f728502aaa83319">
+        <dex dex="D:\AndroidStudioWorkspace\AfterExhibition\app\build\intermediates\pre-dexed\debug\instant-run_c7d34e46f67d284c53c88f2344ced9ba52b1ff0f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioWorkspace\AfterExhibition\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5e412e954a24c5310a459c09870e4e2081aceb03">
+        <dex dex="D:\AndroidStudioWorkspace\AfterExhibition\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-23.1.1_b3d432e01beff697518cb114afa46e487ef26ba7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioWorkspace\AfterExhibition\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="D:\AndroidStudioWorkspace\AfterExhibition\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.1.1_e176bfe406cc7ee6653913d5ae1f27b4e0321ea6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioWorkspace\AfterExhibition\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="D:\AndroidStudioWorkspace\AfterExhibition\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.1.1_296df13ff80ff278fef3f363e406fc180ae3340f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioWorkspace\AfterExhibition\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5e412e954a24c5310a459c09870e4e2081aceb03">
+        <dex dex="D:\AndroidStudioWorkspace\AfterExhibition\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-23.1.1_b3d432e01beff697518cb114afa46e487ef26ba7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioWorkspace\AfterExhibition\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6a8c4904d70ac85ab737530510f725965a5726bd">
+        <dex dex="D:\AndroidStudioWorkspace\AfterExhibition\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_9e4057ef4041a097c48a34c8ddd01429e8e20627.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="D:\AndroidStudioWorkspace\AfterExhibition\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_6ededcc9b39f46fbcdd6efbd1a4d51bb6afd2a15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioWorkspace\AfterExhibition\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="D:\AndroidStudioWorkspace\AfterExhibition\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.1.1_296df13ff80ff278fef3f363e406fc180ae3340f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioWorkspace\AfterExhibition\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="D:\AndroidStudioWorkspace\AfterExhibition\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_4029b69076e88f4e9dbf2472ecaf72deba2fafcb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioWorkspace\AfterExhibition\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="D:\AndroidStudioWorkspace\AfterExhibition\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.1_168bc77e6cd4245d423a1f446c710c1fc86b99ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioWorkspace\AfterExhibition\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="D:\AndroidStudioWorkspace\AfterExhibition\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.1_62b2998bdd5a6c70688f2561dc011a9f5f443cf2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioWorkspace\AfterExhibition\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="D:\AndroidStudioWorkspace\AfterExhibition\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_4029b69076e88f4e9dbf2472ecaf72deba2fafcb.jar" />
+    </item>
+
+</items>
